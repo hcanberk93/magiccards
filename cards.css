@@ -1,0 +1,35 @@
+h1{
+    text-align: center;
+    color:dodgerblue;
+}
+
+label{
+    color:white;
+}
+
+.box {
+    border-radius: 25px;
+    background: cornflowerblue;
+    padding: 20px;
+    width: 200px;
+    height: 150px;
+}
+
+.data{
+    color:white;
+    text-shadow: 1px 0px azure;
+    font-weight: bold;
+    text-align: center;
+    font-size:36px;
+}
+
+.Row {
+    display: table;
+    width: 100%; /*Optional*/
+    table-layout: fixed; /*Optional*/
+    border-spacing: 10px; /*Optional*/
+}
+.Column {
+    display: table-cell;
+    background-color: cornflowerblue; /*Optional*/
+}
